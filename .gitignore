@@ -2,3 +2,9 @@
 
 .DS_Store
 .DS_Store?
+NoSql_MongoDB-checkpoint.ipynb
+Module_2/Webscraping/.ipynb_checkpoints
+Module_3/MonteCarlo/.ipynb_checkpoints
+Module_4/biasvariance/.ipynb_checkpoints
+Module_4/feature_engineering/.ipynb_checkpoints
+*.ipynb
